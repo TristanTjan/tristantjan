@@ -12,7 +12,9 @@ Always looking to learn! 🎓
 Ask me anything :)
 
 You can reach me at:
+
 Twitter: https://www.twitter.com/tristantjan
+
 LinkedIn: https://www.linkedin.com/in/tristantjan/
 
 Pronouns: he/his/him
