@@ -2,10 +2,7 @@
 
 I live in the San Diego area at the moment and have always loved technology! 
 
-
-I am currently working on building a Cyber Deck with a Raspberry Pi 4 and 3D printing a custom case! 💻
-
-I am working on learning Python, C++, and maybe even C using Microsoft Visual Studio 👩‍💻
+I am working in Python and learning Go using Microsoft Visual Studio 👩‍💻
 
 Always looking to learn! 🎓
 
